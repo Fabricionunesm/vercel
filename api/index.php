@@ -1,5 +1,5 @@
 <?php
-$teste = php_info();
+$teste = phpinfo();
     echo '
      <html>
         <head>
